@@ -8,7 +8,7 @@
 
 <b>Matrícula:</b> 201709004.
 
-<p style="text-align: center; font-size:18px;" >Teste Ágeis</p>	
+<p style="text-align: center; font-size:18px" >Teste Ágeis</p>	
 
 Devido aos sistemas estarem sempre em evolução a cada nova funcionalidade implementada, é preciso testá-la, e não obstante testar as funcionalidades já implementadas. Com essa motivação e a utilização de metodologias ágeis no processo de desenvolvimento foi um passo natural trazer as metodologias ágeis para o processo de teste.
 
